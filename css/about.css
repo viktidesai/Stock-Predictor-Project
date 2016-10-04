@@ -1,0 +1,27 @@
+.lt
+{
+	font-family: Calibri;
+	color:#79ABFF;
+}
+.pred
+{
+font-style: italic;
+	color: white;
+	font-size:20px;
+	font-family: Calibri;
+}
+
+#wel
+{
+	font-size: 20px;
+	font-family: Calibri;
+	color:hotpink;
+	font:bold;
+}
+.sp1
+{
+	font-family: Calibri;
+	color:#CCDF32;
+	text-decoration: underline;
+	font: bold;
+}
