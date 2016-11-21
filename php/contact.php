@@ -20,7 +20,7 @@ session_start();
 
 
 <a href="logout.php"> <input type="button" id="logout" value="Sign out"/> </a>
-<button id="welcome"><i class="glyphicon glyphicon-user"></i>&nbsp Welcome <?php echo $_SESSION['name']; ?>! </button>
+<button id="welcome"><i class="glyphicon glyphicon-user"></i>&nbsp Welcome <?php echo $_SESSION['name']; ?>! </button> //hello
 
 </div>
 <div id="div1">
